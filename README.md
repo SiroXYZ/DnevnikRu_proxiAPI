@@ -1,6 +1,6 @@
 # Dnevnik API
-![Static Badge](https://img.shields.io/badge/DnevnikRuAPI_NEW-Sirop12)
-![GitHub Repo stars](https://img.shields.io/github/stars/Sirop12/DnevnikRuAPI_NEW)
+![Static Badge](https://img.shields.io/badge/DnevnikRu_proxiAPI-SiroXYZ)
+![GitHub Repo stars](https://img.shields.io/github/stars/SiroXYZ/DnevnikRu_proxiAPI)
 
 
 
