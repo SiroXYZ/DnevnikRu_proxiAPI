@@ -1,4 +1,8 @@
 # Dnevnik API
+![Static Badge](https://img.shields.io/badge/DnevnikRuAPI_NEW-Sirop12)
+![GitHub Repo stars](https://img.shields.io/github/stars/Sirop12/DnevnikRuAPI_NEW)
+
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0ea5e9?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2e7d32?style=for-the-badge&logo=sqlite&logoColor=white)
