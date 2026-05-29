@@ -1,4 +1,5 @@
-# Dnevnik API
+# DnevnikRu_ProxiAPI
+
 ![Static Badge](https://img.shields.io/badge/DnevnikRu_proxiAPI-SiroXYZ)
 ![GitHub Repo stars](https://img.shields.io/github/stars/SiroXYZ/DnevnikRu_proxiAPI)
 
