@@ -101,4 +101,4 @@ curl -H "access-token: YOUR_TOKEN" \
 
 ## Лицензия
 
-Смотри файл лицензии в репозитории.
+MIT License
