@@ -13,9 +13,9 @@
 
 ## Быстрые ссылки
 
-- [Связь](https://t.me/Sirop1)
+- [Связь](https://t.me/SiroX1)
 - [Сайт для получения токена](https://androsovpavel.pythonanywhere.com/)
-- [Репозиторий с документацией по автоматизации получения токена](https://github.com/yasg1988/dnevnik-mcp-server)
+- [Репозиторий с документацией по автоматизации получения токена](https://github.com/SiroXYZ/token-auto-dnevnik.ru)
 
 ## Что делает проект
 
